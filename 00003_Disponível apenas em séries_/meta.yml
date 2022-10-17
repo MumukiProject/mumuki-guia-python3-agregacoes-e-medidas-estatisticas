@@ -10,19 +10,19 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`min(arboles["altura_tot"])`'
+  value: '`min(arvores["height"])`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`min([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`sum(arboles["diametro"])`'
+  value: '`sum(arvores["diameter"])`'
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`sum([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`mean(arboles["inclinacion"])`'
+  value: '`mean(arvores["inclination"])`'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: "`mean([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
@@ -31,4 +31,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_output_includes
   output: 'NameError: name ''mean'' is not defined'
-name: "¿Disponible sólo en series?"
+name: Disponível apenas em séries?
