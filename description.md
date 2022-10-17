@@ -1,0 +1,1 @@
+Na lição anterior, obtivemos valores pontuais de nossos datasets. No entanto, muitas vezes queremos saber informações mais gerais sobre nossos lotes. Então junte-se a nós para descobrir as _medidas estatísticas_: novas ferramentas (e nem tanto) que nos ajudarão a entender melhor nossos lotes de dados. 💪
