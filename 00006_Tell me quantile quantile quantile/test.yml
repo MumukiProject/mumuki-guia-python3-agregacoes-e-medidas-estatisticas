@@ -1,4 +1,4 @@
-- name: 'Mediana de las alturas'
+- name: 'Quantil 0.8'
   keys:
     quantile:
       equal: 48.0

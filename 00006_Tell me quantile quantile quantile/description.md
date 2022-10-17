@@ -1,15 +1,15 @@
-En el ejercicio anterior conocimos la mediana, la cual nos permite saber el valor del medio de una columna teniendo en cuenta sus elementos ordenados. Este concepto se puede extrapolar a la idea de cuantiles. 😮
+No exercício anterior aprendemos sobre a mediana, que nos permite saber o valor do meio de uma coluna levando em consideração os elementos ordenados. Esse conceito pode ser extrapolado para a ideia de quantis. 😮
 
-El cuantil me dice cuál es el elemento más grande de un subconjunto de elementos más pequeños. ¡Vamos a explicarlo con un ejemplo para que se entienda mejor!
+O quantil me diz qual é o maior elemento de um subconjunto de elementos menores. Vamos explicar com um exemplo para melhor compreensão!
 
-Si hicieramos...
+Se fizéssemos...
 
 ```python
-ム arboles["diametro"].quantile(0.95)
+ム árvores["diameter"].quantile(0.95)
 71.0
 ```
 
+... obteríamos o maior diâmetro dentro de um 95% das menores. Dito de outra forma, se removermos os 5% "mais largos" das árvores, o maior diâmetro que nos resta é 71.0.
+ 
 
-... obtendríamos el diámetro más grande dentro del 95% más chico. Dicho de otra forma, si quitamos el 5% de árboles "más anchos" el mayor diámetro que nos queda es 71.0. 
-
-> ¡Probalo! Obtené la altura del árbol más alto dentro del 80% más bajo.
+> Experimente! Obtenha a altura da árvore mais alta dentro dos 80% mais baixos.
