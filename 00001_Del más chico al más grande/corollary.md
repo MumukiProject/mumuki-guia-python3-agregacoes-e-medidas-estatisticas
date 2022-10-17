@@ -1,1 +1,0 @@
-Pero como te podrás imaginar esto no es lo único que podemos hacer. Continuemos para conocer más operaciones. :raised_hands: 

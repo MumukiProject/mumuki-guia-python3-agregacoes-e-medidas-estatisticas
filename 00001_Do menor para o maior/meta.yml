@@ -13,4 +13,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: VALOR FINAL
-name: Del más chico al más grande
+name: Do menor para o maior
