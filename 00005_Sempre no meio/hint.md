@@ -1,0 +1,1 @@
+`median` é invocada da mesma forma  que as operações de `Series` que conhecemos nesta lição: `tabela["nome da coluna"].mediana()`. 

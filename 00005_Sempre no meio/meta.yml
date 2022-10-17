@@ -13,4 +13,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_matches
   regexp: arboles\s*\[\s*('altura'|"altura")\s*\]\.median(\s*)
-name: Siempre en el medio
+name: Sempre no meio
