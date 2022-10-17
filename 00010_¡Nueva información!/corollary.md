@@ -1,0 +1,1 @@
+A diferencia de `describe`, `info` nos permite obtener información sobre la estructura de nuestro `DataFrame` como por ejemplo la cantidad de columnas, de qué tipo de datos son, cuántos valores tenemos en cada una.

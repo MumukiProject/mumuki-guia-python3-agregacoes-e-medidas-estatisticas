@@ -1,0 +1,30 @@
+---
+locale: es
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+teacher_info: ''
+manual_evaluation: false
+choices:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(0.95)` es lo mismo que  `arboles["height"].max()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(1)` es lo mismo que  `arboles["height"].min()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(0)` es lo mismo que  `arboles["height"].min()`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(0.75)` es lo mismo que  `arboles["height"].median()`'
+  checked: false
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(1)` es lo mismo que  `arboles["height"].max()`'
+  checked: true
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: '`arboles["height"].quantile(0.5)` es lo mismo que  `arboles["height"].median()`'
+  checked: true
+name: Todo en-caja

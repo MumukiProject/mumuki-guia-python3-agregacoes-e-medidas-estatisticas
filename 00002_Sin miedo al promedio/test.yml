@@ -1,0 +1,4 @@
+- name: 'Diámetro promedio'
+  keys:
+    promedio:
+      equal: 31.94

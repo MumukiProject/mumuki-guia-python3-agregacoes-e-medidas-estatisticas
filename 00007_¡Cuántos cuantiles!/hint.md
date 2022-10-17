@@ -1,0 +1,1 @@
+Cuando decimos el tercer **cuartil** nos estamos refiriendo al correspondiente al 75% de la muestra (el primero sería el 25% y el segundo, el 50%) :wink:

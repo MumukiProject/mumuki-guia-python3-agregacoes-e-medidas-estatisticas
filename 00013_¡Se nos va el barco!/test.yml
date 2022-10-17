@@ -1,0 +1,24 @@
+- name: 'Menor gasto en tours'
+  keys:
+    tours:
+      equal: 0
+- name: 'Mayor gasto en alimentación'
+  keys:
+    food:
+      equal: 4000
+- name: 'Gasto promedio'
+  keys:
+    total:
+      equal: 145.97
+- name: 'Crucero con mayor gasto total'
+  keys:
+    idxmax:
+      equal: 796
+- name: 'País de procedencia más común'
+  keys:
+    country:
+      equal: 
+        expected: Brasil
+        ignore_case: true
+        ignore_whitespace: true
+      

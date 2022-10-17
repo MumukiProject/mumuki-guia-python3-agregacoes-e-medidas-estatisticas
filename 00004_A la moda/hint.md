@@ -1,0 +1,1 @@
+Si te quedan dudas sobre cómo interpretar el resultado, probá convertir el resultado en una lista, haciendo `list(unos_numeros.mode())`. 🪄
