@@ -13,4 +13,4 @@ goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: TODO
-name: Sin miedo al promedio
+name: Sem medo da média
