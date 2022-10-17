@@ -1,0 +1,4 @@
+- name: 'Terceiro quartil dos diâmetros'
+  keys:
+    quartile:
+      equal: 43.0
