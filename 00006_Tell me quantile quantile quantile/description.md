@@ -5,7 +5,7 @@ O quantil me diz qual é o maior elemento de um subconjunto de elementos menores
 Se fizéssemos...
 
 ```python
-ム árvores["diameter"].quantile(0.95)
+ム arvores["diameter"].quantile(0.95)
 71.0
 ```
 
