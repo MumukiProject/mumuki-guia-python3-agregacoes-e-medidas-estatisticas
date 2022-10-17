@@ -1,0 +1,1 @@
+Parabéns! Você acabou de aprender sobre agregações e medidas estatísticas, como máximos, mínimos, médias, medianas e modas. Além disso, aprendemos sobre quantis e quartis e diferentes maneiras de descrever um conjunto de dados. :pencil:
