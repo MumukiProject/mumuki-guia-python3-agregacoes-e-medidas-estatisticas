@@ -1,12 +1,11 @@
 ---
 locale: es
 tags: []
-layout: input_bottom
-editor: free_form
+layout: input_right
+editor: code
 type: problem
 extra_visible: false
-language: text
 teacher_info: ''
 manual_evaluation: false
 choices: []
-name: "¡Se nos va el barco!"
+name: De punta a punta

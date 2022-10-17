@@ -1,20 +1,20 @@
-- name: 'Menor gasto en tours'
+- name: 'Menor gasto registrado em passeios'
   keys:
     tours:
       equal: 0
-- name: 'Mayor gasto en alimentación'
+- name: 'Maior gasto registrado com alimentação'
   keys:
     food:
       equal: 4000
-- name: 'Gasto promedio'
+- name: 'Gasto médio'
   keys:
     total:
       equal: 145.97
-- name: 'Crucero con mayor gasto total'
+- name: 'Cruzeiro com a maior gasto total'
   keys:
     idxmax:
       equal: 796
-- name: 'País de procedencia más común'
+- name: 'País de origem mais comum'
   keys:
     country:
       equal: 
