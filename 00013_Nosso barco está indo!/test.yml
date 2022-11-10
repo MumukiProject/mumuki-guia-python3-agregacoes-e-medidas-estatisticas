@@ -13,7 +13,7 @@
 - name: 'Cruzeiro com a maior gasto total'
   keys:
     idxmax:
-      equal: 796
+      match: '^(796|800|1217)$'
 - name: 'País de origem mais comum'
   keys:
     country:
