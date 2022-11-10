@@ -1,4 +1,4 @@
 - name: 'Mediana das alturas'
   keys:
     median:
-      equal: 28.0
+      equal: 8.0
