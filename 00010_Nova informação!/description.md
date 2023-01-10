@@ -27,4 +27,4 @@ Você também deve ter notado que 'descreve' mostra apenas informações sobre a
 Outra ferramenta para obter outros tipos de informações sobre nossos dados é `info`. Ao contrário do `describe`, com `info` podemos conhecer sobre a estrutura do nosso `DataFrame`, como por exemplo a quantidade de colunas, que tipo de dados são, quantos valores temos em cada uma.
 
 
-> Tente no seu caderno `arvoles.info()`.
+> Tente no seu caderno `arvores.info()`.
