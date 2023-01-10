@@ -1,4 +1,4 @@
-- name: 'Altura da árvore mais alta'
+- name: 'Altura da árvore mais alta (sem casas decimais)'
   keys:
     altura:
       equal: 60
