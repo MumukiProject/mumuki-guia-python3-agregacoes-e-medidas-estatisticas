@@ -1,1 +1,1 @@
-Se você ainda tem dúvidas sobre como interpretar o resultado, tente transformar o resultado em uma lista, fazendo `list(uns_números.mode())`. 🪄
+Se você ainda tem dúvidas sobre como interpretar o resultado, tente transformar o resultado em uma lista, fazendo `list(uns_numeros.mode())`. 🪄
