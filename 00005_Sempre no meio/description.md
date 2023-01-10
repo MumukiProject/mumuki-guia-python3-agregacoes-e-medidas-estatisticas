@@ -1,4 +1,4 @@
-Existe uma medida estatística que faz referência ao valor que podemos encontrar bem no meio de uma coluna se organizamos: a _mediana_. 👀 Cuidado! Não deve ser confundido com a média. Vejamos um exemplo:
+Existe uma medida estatística que faz referência ao valor que podemos encontrar bem no meio de uma coluna se a ordenamos: a _mediana_. 👀 Cuidado! Não deve ser confundido com a média. Vejamos um exemplo:
 
 1. Vamos imaginar que temos uma coluna com os valores `8 7 9 25 48 87 42`;
 2. se ordenássemos esses valores teríamos `7 8 9 25 42 48 87`;
