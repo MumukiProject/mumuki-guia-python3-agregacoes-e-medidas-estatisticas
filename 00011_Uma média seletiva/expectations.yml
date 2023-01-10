@@ -2,7 +2,7 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:promedio_de_los_primeros
+  inspection: Declares:media_dos_primeiros
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity2:promedio_de_los_primeros
+  inspection: DeclaresComputationWithArity2:media_dos_primeiros
