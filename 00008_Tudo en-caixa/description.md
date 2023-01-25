@@ -1,4 +1,4 @@
-Como você deve estar imaginando, 0 e 1 são os menores e maiores valores que podemos passar para `quantil`, que também são conhecidos como <code>Q<sub>0</sub></code> y <code>Q<sub>4</sub></code>e correspondem ao valor mínimo e máximo de uma série.
+Como você deve estar imaginando, 0 e 1 são os menores e maiores valores que podemos passar para `quantil`, que também são conhecidos como <code>Q<sub>0</sub></code> e <code>Q<sub>4</sub></code>e correspondem ao valor mínimo e máximo de uma série.
 
 Todas essas informações dos 5 quartis podem ser condensadas em um gráfico, chamado de gráfico de caixa...
 
