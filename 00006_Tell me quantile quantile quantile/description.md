@@ -9,7 +9,7 @@ Se fizéssemos...
 71.0
 ```
 
-... obteríamos o maior diâmetro dentro de um 95% das menores. Dito de outra forma, se removermos os 5% "mais largos" das árvores, o maior diâmetro que nos resta é 71.0.
+... obteríamos o maior diâmetro dentro de um 95% das menores. Dito de outra forma, se removermos os 5% "maiores diâmeros" das árvores, o maior diâmetro que nos resta é 71.0.
  
 
 > Experimente! Obtenha a altura da árvore mais alta dentro dos 80% mais baixos.
