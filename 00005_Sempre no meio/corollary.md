@@ -1,4 +1,4 @@
-Você pode estar se perguntando o que acontece se a quantidade de elementos no lote for par. Utiliza o menor do meio ou o maior? Não exatamente. Nesse caso, a sequência é um pouco diferente:
+Você pode estar se perguntando o que acontece se a quantidade de elementos no lote for par. Utiliza o menor valor do meio ou o maior? Não exatamente. Nesse caso, é um pouco diferente:
 
 1.  Vamos imaginar que nossa coluna tenha os valores `8 7 9 25 48 87 42 21`;
 2. Se ordenássemos esses valores teríamos `7 8 9 21 25 42 48 87`;
