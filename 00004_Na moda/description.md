@@ -2,10 +2,10 @@ A _moda_ é outra medida estatística, mas não tão popular quanto as anteriore
 
 Mas o que aconteceria com uma coluna com os valores `1 1 4 8 9 1 4 8 9 8`? Seria 1 ou 8? 🤔
 
-> Vamos investigar! Crie no seu caderno uma 'Séries' com os valores anteriores….
+> Vamos investigar! Crie no seu caderno uma `Series` com os valores anteriores….
 >
 > ```python
-> # assim é possível transformar uma lista em uma Séries
+> # assim é possível transformar uma lista em uma Series
 > uns_numeros = pd.Series([1, 1, 4, 8, 9, 1, 4, 8, 9, 8])
 > ```
 > 
