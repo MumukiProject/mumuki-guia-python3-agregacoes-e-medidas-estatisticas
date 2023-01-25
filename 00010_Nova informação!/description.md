@@ -22,7 +22,7 @@ Vamos explicar um pouco do que se trata cada uma dessas linhas:
 * `75%` é o valor de Q3;
 * `max` é o maior valor que podemos encontrar na coluna.
 
-Você também deve ter notado que 'descreve' mostra apenas informações sobre as colunas numéricas do nosso lote de dados. No entanto, é importante notar que mesmo que a coluna seja numérica, nem sempre faz sentido obter medidas estatísticas. Provavelmente não daremos importância para a média dos códigos postais ou a mediana dos ids’s. 
+Você também deve ter notado que `describe` mostra apenas informações sobre as colunas numéricas do nosso lote de dados. No entanto, é importante notar que mesmo que a coluna seja numérica, nem sempre faz sentido obter medidas estatísticas. Provavelmente não daremos importância para a média dos códigos postais ou a mediana dos ids’s. 
 
 Outra ferramenta para obter outros tipos de informações sobre nossos dados é `info`. Ao contrário do `describe`, com `info` podemos conhecer sobre a estrutura do nosso `DataFrame`, como por exemplo a quantidade de colunas, que tipo de dados são, quantos valores temos em cada uma.
 
