@@ -9,4 +9,4 @@ Mas o que aconteceria com uma coluna com os valores `1 1 4 8 9 1 4 8 9 8`? Seria
 > uns_numeros = pd.Series([1, 1, 4, 8, 9, 1, 4, 8, 9, 8])
 > ```
 > 
-> e calcule a moda fazendo `uns_números.mode()`. Qual é a moda?
+> e calcule a moda fazendo `uns_numeros.mode()`. Qual é a moda?
