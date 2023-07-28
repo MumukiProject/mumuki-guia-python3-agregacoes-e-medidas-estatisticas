@@ -8,23 +8,18 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(0.95)` é o mesmo que `arvoles["height"].max()`'
+- value: '`arvoles["height"].quantil(0.95)` é o mesmo que `arvoles["height"].max()`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(1)` é o mesmo que `arvoles["height"].min()`'
+- value: '`arvoles["height"].quantil(1)` é o mesmo que `arvoles["height"].min()`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(0)` é o mesmo que `arvoles["height"].min()`'
+- value: '`arvoles["height"].quantil(0)` é o mesmo que `arvoles["height"].min()`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(0.75)` é o mesmo que `arvoles["height"].median()`'
+- value: '`arvoles["height"].quantil(0.75)` é o mesmo que `arvoles["height"].median()`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(1)` é o mesmo que `arvoles["height"].max()`'
+- value: '`arvoles["height"].quantil(1)` é o mesmo que `arvoles["height"].max()`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`arvoles["height"].quantil(0.5)` é o mesmo que `arvoles["height"].median()`'
+- value: '`arvoles["height"].quantil(0.5)` é o mesmo que `arvoles["height"].median()`'
   checked: true
 name: Tudo en-caixa

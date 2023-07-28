@@ -8,24 +8,19 @@ extra_visible: false
 language: text
 teacher_info: ''
 manual_evaluation: false
+progressive_expectations: false
 choices:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`min(arvores["height"])`'
+- value: '`min(arvores["height"])`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`min([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
+- value: "`min([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`sum(arvores["diameter"])`'
+- value: '`sum(arvores["diameter"])`'
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`sum([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
+- value: "`sum([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
   checked: true
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: '`mean(arvores["inclination"])`'
+- value: '`mean(arvores["inclination"])`'
   checked: false
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`mean([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
+- value: "`mean([2, 4, 8, 16, 32, 64, 128, 256, 512, 1024])`"
   checked: false
 goal: |
   --- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
